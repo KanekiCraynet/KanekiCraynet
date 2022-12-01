@@ -1,4 +1,4 @@
-# Hi there, I'm Phalosa - aka [Dzakri Phalosa Nugroho](https://app.kurozpedia.my.id/) 👋
+# Hi there, I'm Phalosa - full name [Dzakri Phalosa Nugroho](https://app.kurozpedia.my.id/) 👋
 ## About me:
 - 🔭 I currently freelance
 - 🌱 Saya sedang belajar Python, PHP dan Javascript
@@ -10,11 +10,11 @@
 ## Education:
 
 #### 1. [UIN Gusdur Pekalongan](https://uingusdur.ac.id) | Bachelor of Science Qur'an Tafsir | Pekalongan `2022-now`
-   - Asistant Laboratorium of Basic Electronics
+   - 
 #### 2. [Universitas Muhammadiah Kendal Batang](https://umkaba.ac.id) | Bachelor of Informatics Engineering | Kendal `2022-Now`
-   - Chief of Rohkris
-#### 2. [SMA N 2 Pekalongan](https://sma2pekalongan.sch.id) | IPS | Pekalongan `2018-2021`
-   - Chief of Rohkris
+   - 
+#### 3. [SMA N 2 Pekalongan](https://sma2pekalongan.sch.id) | IPS | Pekalongan `2018-2021`
+
 
 ## Work Experience:
 #### 1. []() | |  ``
@@ -39,19 +39,16 @@
 
 ---
 ### Connect with me:
-
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/@IRZeinn#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/@IRZeinn#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dzakri-nugroho-b7499b1b7#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dzakri-nugroho-b7499b1b7#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/its.zeein#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/its.zeein#gh-dark-mode-only)
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: [https://github.com/vincentwidyan/vincentwidyan](https://github.com/KanekiCraynet/KanekiCraynet)
