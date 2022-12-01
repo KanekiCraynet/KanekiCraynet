@@ -9,7 +9,7 @@
 
 ## Education:
 
-#### 1. [UIN Gusdur Pekalongan](https://uingusdur.ac.id) | Bachelor of Science Qur'an Tafsir | Pekalongan `2022-now`
+#### 1. [UIN Gusdur Pekalongan](https://uingusdur.ac.id) | Bachelor of Science Qur'an Tafsir | Bojong `2022-now`
    - 
 #### 2. [Universitas Muhammadiah Kendal Batang](https://umkaba.ac.id) | Bachelor of Informatics Engineering | Kendal `2022-Now`
    - 
