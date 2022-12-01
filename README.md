@@ -1,7 +1,7 @@
 # Hi there, I'm Phalosa - full name [Dzakri Phalosa Nugroho](https://app.kurozpedia.my.id/) 👋
 ## About me:
 - 🔭 I currently freelance
-- 🌱 Saya sedang belajar Python, PHP dan Javascript
+- 🌱 I'm learning Python, PHP and Javascript
 - 👯 I’m looking to collaborate as Data Analyst
 - 🤔 I’m looking for suggest for Automation and Data Analyst
 - 💬 Ask me about anything
