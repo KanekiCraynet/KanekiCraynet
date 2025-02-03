@@ -1,52 +1,55 @@
-## 🚀 Hi there, I'm **Phalosa** 👋  
-**Full Name:** [Dzakri Phalosa Nugroho](https://app.kurozpedia.my.id/)  
-
-### 🔹 About Me  
-- 💼 **Freelancer** | Open to new opportunities  
-- 📖 Currently learning **Python, PHP, and JavaScript**  
-- 🤝 Seeking collaborations in **Data Analysis**  
-- 💡 Looking for **Automation & Data Analytics suggestions**  
-- 📩 Reach me at **osanugroho03@gmail.com**  
+<h1 align="center">Hi there, I'm Phalosa 👋</h1>
+<p align="center">
+  <strong>Full Name:</strong> <a href="https://app.kurozpedia.my.id/">Dzakri Phalosa Nugroho</a>  
+</p>
 
 ---
 
-## 🎓 Education  
-🎓 **[UIN Gusdur Pekalongan](https://uingusdur.ac.id)** | B.Sc. Qur'an Tafsir (2022 - Present)  
-🎓 **[Universitas Muhammadiyah Kendal Batang](https://umkaba.ac.id)** | B.Sc. Informatics Engineering (2022 - Present)  
-🎓 **[SMA N 2 Pekalongan](https://sma2pekalongan.sch.id)** | Social Sciences (2018 - 2021)  
+## 🚀 About Me
+- 🔭 Currently freelancing  
+- 🌱 Learning **Python, PHP, and JavaScript**  
+- 🤝 Open to collaboration in **Data Analysis**  
+- 🤖 Interested in **Automation & Data Analytics**  
+- 💬 Ask me anything!  
+- 📫 Reach me at **osanugroho03@gmail.com**  
 
 ---
 
-## 💼 Work Experience  
-🔹 Currently seeking professional opportunities  
-💡 Open to **internships, freelance, and full-time positions** in **Data Analysis & Automation**  
+## 🎓 Education
+### 🎓 [UIN Gusdur Pekalongan](https://uingusdur.ac.id)  
+*Bachelor of Science in Qur'an Tafsir* | *Bojong (2022 - Present)*  
+
+### 🎓 [Universitas Muhammadiyah Kendal Batang](https://umkaba.ac.id)  
+*Bachelor of Informatics Engineering* | *Kendal (2022 - Present)*  
+
+### 🎓 [SMA N 2 Pekalongan](https://sma2pekalongan.sch.id)  
+*IPS (Social Sciences)* | *Pekalongan (2018 - 2021)*  
 
 ---
 
-## 🛠️ Languages & Tools  
-**Programming & Scripting:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-
-**Data & Analytics:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-
-**Development & Tools:**  
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+## 💼 Work Experience
+🚀 *Looking to gain more experience in Data Analytics and Automation.*  
 
 ---
 
-## 📡 Connect With Me  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@IRZeinn)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzakri-nugroho-b7499b1b7)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/its.zeein)  
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40px"/>
+  <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" alt="Excel" width="40px"/>
+  <img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" alt="Power BI" width="40px"/>
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="40px"/>
+</p>
 
 ---
+
+## 📲 Connect with Me  
+<p align="left">
+  <a href="https://twitter.com/@IRZeinn"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/dzakri-nugroho-b7499b1b7"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/its.zeein"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
 
 
