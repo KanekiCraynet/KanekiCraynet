@@ -1,6 +1,4 @@
 ---
-
----
 title: "Dzakri Phalosa Nugroho's GitHub Profile"
 description: "Freelancer | Data Analyst | Learning Python, PHP, JavaScript"
 ---
@@ -70,4 +68,4 @@ description: "Freelancer | Data Analyst | Learning Python, PHP, JavaScript"
 
 ---
 
-[webdev]: https://github.com/KanekiCraynet/KanekiCraynet
+[webdev]: https://github.com/KanekiCraynet/
