@@ -1,82 +1,104 @@
-<h1 align="center">Hi, I'm Phalosa (Dzakri Phalosa Nugroho)</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Phalosa;Data+Analyst+%26+Automation+Developer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://app.kurozpedia.my.id/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Kurozpedia-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-%234F8CC9.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/phalosa-nugroho/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dzakri_Nugroho-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/@IRZeinn">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%40IRZeinn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://twitter.com/IRZeinn">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://instagram.com/its.zeein">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-its.zeein-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
-<hr />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KanekiCraynet&theme=nord&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
-## About Me
+## 🌟 About Me
 
-I'm a dedicated freelance professional with a passion for Data Analysis & Automation. I enjoy exploring new technologies and sharpening my skills in **Python, PHP, and JavaScript**.  
-**Key Highlights:**
-- 🔭 Currently freelancing on diverse projects  
-- 🌱 Always learning new programming languages and tools  
-- 🤝 Open to collaborative opportunities in Data Analysis & Automation  
-- 💬 Feel free to ask questions or suggest improvements!
-
-Reach out to me at **osanugroho03@gmail.com**.
-
-<hr />
-
-## Education
-
-- **Bachelor of Science in Qur'an Tafsir**  
-  *UIN Gusdur Pekalongan* | 2022 – Present  
-  [Visit Website](https://uingusdur.ac.id)
-
-- **Bachelor of Informatics Engineering**  
-  *Universitas Muhammadiyah Kendal Batang* | 2022 – Present  
-  [Visit Website](https://umkaba.ac.id)
-
-- **Social Sciences (IPS)**  
-  *SMA N 2 Pekalongan* | 2018 – 2021  
-  [Visit Website](https://sma2pekalongan.sch.id)
-
-<hr />
-
-## Work Experience
-
-*(Currently updating...)*
-
-<hr />
-
-## Technical Skills
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/>
-  <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" alt="Excel" width="40" height="40"/>
-  <img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="40" height="40"/>
+<p align="justify">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U5Y2p0Y2V6eXl1d2ZtMjJ1ZTN1aXZqYjR5bDVwemR6a3Q3c3V2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" align="right" alt="Coding GIF">
+  
+  Passionate Data Analyst & Automation Developer with expertise in transforming raw data into actionable insights. Currently pursuing dual degrees while freelancing on diverse projects.
+  
+  **Core Competencies:**
+  - 🎯 Data Analysis & Visualization
+  - 🤖 Process Automation
+  - 📊 Business Intelligence
+  - 🔍 Database Management
+  
+  *"Turning data into decisions and processes into efficiency"*
 </p>
 
-<hr />
+---
 
-## Connect with Me
+## 🎓 Education
 
-- **Email:** [osanugroho03@gmail.com](mailto:osanugroho03@gmail.com)
-- **LinkedIn:** [Dzakri Nugroho](https://www.linkedin.com/in/phalosa-nugroho/)
-- **Twitter:** [@IRZeinn](https://twitter.com/@IRZeinn)
-- **Instagram:** [@its.zeein](https://instagram.com/its.zeein)
+<div align="center">
 
-<hr />
+| Institution                      | Program                          | Duration   | Website                      |
+|----------------------------------|----------------------------------|------------|------------------------------|
+| **UIN Gusdur Pekalongan**        | B.Sc. Qur'an Tafsir              | 2022–Present | [🌐 Visit](https://uingusdur.ac.id) |
+| **Universitas Muhammadiyah Kendal Batang** | B.Sc. Informatics Engineering | 2022–Present | [🌐 Visit](https://umkaba.ac.id) |
+| **SMA N 2 Pekalongan**           | Social Sciences                  | 2018–2021  | [🌐 Visit](https://sma2pekalongan.sch.id) |
 
-## GitHub Stats
+</div>
+
+---
+
+## 💼 Technical Arsenal
+
+### **Data Analysis & Visualization**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### **Database & Development**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### **Tools & IDEs**
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/KanekiCraynet">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KanekiCraynet&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiCraynet&layout=compact&langs_count=8&theme=nord"/>
+  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KanekiCraynet&theme=nord&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 📬 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanekiCraynet&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiCraynet&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <a href="mailto:osanugroho03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/Itszeein">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://discordapp.com/users/yourdiscord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KanekiCraynet&style=flat-square&color=4F8CC9" alt="Profile Views"/>
+</div>
