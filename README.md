@@ -1,71 +1,82 @@
----
-title: "Dzakri Phalosa Nugroho's GitHub Profile"
-description: "Freelancer | Data Analyst | Learning Python, PHP, JavaScript"
----
+<h1 align="center">Hi, I'm Phalosa (Dzakri Phalosa Nugroho)</h1>
 
-# 👋 Hi there, I'm Phalosa (Dzakri Phalosa Nugroho)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Kurozpedia-blue?style=flat&logo=google-chrome&logoColor=white)](https://app.kurozpedia.my.id/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dzakri_Nugroho-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/phalosa-nugroho/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%40IRZeinn-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@IRZeinn)  
-[![Instagram](https://img.shields.io/badge/Instagram-its.zeein-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/its.zeein)  
- 
+<p align="center">
+  <a href="https://app.kurozpedia.my.id/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Kurozpedia-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/phalosa-nugroho/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dzakri_Nugroho-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/@IRZeinn">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%40IRZeinn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/its.zeein">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-its.zeein-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
+<hr />
 
----
+## About Me
 
-## 📌 About Me
-- 🔭 Currently freelancing  
-- 🌱 Learning **Python, PHP, JavaScript**  
-- 👯 Open to collaboration in **Data Analysis & Automation**  
-- 🤔 Looking for suggestions on **Automation & Data Analytics**  
-- 💬 Ask me anything!  
-- 📫 Reach me at **osanugroho03@gmail.com**  
+I'm a dedicated freelance professional with a passion for Data Analysis & Automation. I enjoy exploring new technologies and sharpening my skills in **Python, PHP, and JavaScript**.  
+**Key Highlights:**
+- 🔭 Currently freelancing on diverse projects  
+- 🌱 Always learning new programming languages and tools  
+- 🤝 Open to collaborative opportunities in Data Analysis & Automation  
+- 💬 Feel free to ask questions or suggest improvements!
 
----
+Reach out to me at **osanugroho03@gmail.com**.
 
-## 🎓 Education  
-📍 **[UIN Gusdur Pekalongan](https://uingusdur.ac.id) — Bachelor of Science in Qur'an Tafsir**  
-📅 *2022 - Present*  
+<hr />
 
-📍 **[Universitas Muhammadiyah Kendal Batang](https://umkaba.ac.id) — Bachelor of Informatics Engineering**  
-📅 *2022 - Present*  
+## Education
 
-📍 **[SMA N 2 Pekalongan](https://sma2pekalongan.sch.id) — Social Sciences (IPS)**  
-📅 *2018 - 2021*  
+- **Bachelor of Science in Qur'an Tafsir**  
+  *UIN Gusdur Pekalongan* | 2022 – Present  
+  [Visit Website](https://uingusdur.ac.id)
 
----
+- **Bachelor of Informatics Engineering**  
+  *Universitas Muhammadiyah Kendal Batang* | 2022 – Present  
+  [Visit Website](https://umkaba.ac.id)
 
-## 💼 Work Experience  
-*(Currently updating...)*  
+- **Social Sciences (IPS)**  
+  *SMA N 2 Pekalongan* | 2018 – 2021  
+  [Visit Website](https://sma2pekalongan.sch.id)
 
----
+<hr />
 
-## 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40px" height="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40px" height="40px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40px" height="40px" />
-  <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" alt="Excel" width="40px" height="40px" />
-  <img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" alt="Power BI" width="40px" height="40px" />
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="40px" height="40px" />
-</p>  
+## Work Experience
 
----
+*(Currently updating...)*
 
-### 🚀 Let's Connect!  
-📧 **Email:** osanugroho03@gmail.com  
-💼 **LinkedIn:** [Dzakri Nugroho](https://www.linkedin.com/in/phalosa-nugroho/) 
-📱 **Twitter:** [@IRZeinn](https://twitter.com/@IRZeinn)  
-📷 **Instagram:** [@its.zeein](https://instagram.com/its.zeein)  
+<hr />
 
----
+## Technical Skills
 
-### 🔥 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanekiCraynet&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiCraynet&theme=tokyonight" alt="GitHub Streak" height="160px"/>
-</p>  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/>
+  <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" alt="Excel" width="40" height="40"/>
+  <img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="40" height="40"/>
+</p>
 
----
+<hr />
 
-[webdev]: https://github.com/KanekiCraynet/
+## Connect with Me
+
+- **Email:** [osanugroho03@gmail.com](mailto:osanugroho03@gmail.com)
+- **LinkedIn:** [Dzakri Nugroho](https://www.linkedin.com/in/phalosa-nugroho/)
+- **Twitter:** [@IRZeinn](https://twitter.com/@IRZeinn)
+- **Instagram:** [@its.zeein](https://instagram.com/its.zeein)
+
+<hr />
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KanekiCraynet&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiCraynet&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
