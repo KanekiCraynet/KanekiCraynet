@@ -1,10 +1,17 @@
 ---
 
+---
+title: "Dzakri Phalosa Nugroho's GitHub Profile"
+description: "Freelancer | Data Analyst | Learning Python, PHP, JavaScript"
+---
+
 # 👋 Hi there, I'm Phalosa (Dzakri Phalosa Nugroho)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Kurozpedia-blue?style=flat&logo=google-chrome&logoColor=white)](https://app.kurozpedia.my.id/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dzakri_Nugroho-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dzakri-nugroho-b7499b1b7)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dzakri_Nugroho-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/phalosa-nugroho/)  
 [![Twitter](https://img.shields.io/badge/Twitter-%40IRZeinn-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@IRZeinn)  
 [![Instagram](https://img.shields.io/badge/Instagram-its.zeein-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/its.zeein)  
+ 
+
 
 ---
 
@@ -49,7 +56,7 @@
 
 ### 🚀 Let's Connect!  
 📧 **Email:** osanugroho03@gmail.com  
-💼 **LinkedIn:** [Dzakri Nugroho](https://www.linkedin.com/in/dzakri-nugroho-b7499b1b7)  
+💼 **LinkedIn:** [Dzakri Nugroho](https://www.linkedin.com/in/phalosa-nugroho/) 
 📱 **Twitter:** [@IRZeinn](https://twitter.com/@IRZeinn)  
 📷 **Instagram:** [@its.zeein](https://instagram.com/its.zeein)  
 
@@ -63,4 +70,4 @@
 
 ---
 
-[webdev]: [https://github.com/vincentwidyan/vincentwidyan](https://github.com/KanekiCraynet/KanekiCraynet)
+[webdev]: https://github.com/KanekiCraynet/KanekiCraynet
