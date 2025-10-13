@@ -118,7 +118,7 @@ def transform_data_to_value(raw_data):
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png" width="40" height="40"/>
 <br><b>Power BI</b>
 </td>
 <td align="center" width="50%">
@@ -142,7 +142,7 @@ def transform_data_to_value(raw_data):
 </tr>
 </table>
 
-### ⚙️ Automation & DevOps
+### 🔧 Automation & DevOps
 <table>
 <tr>
 <td align="center" width="33%">
@@ -172,14 +172,14 @@ def transform_data_to_value(raw_data):
 ### 📈 Activity Overview
 <img src="https://github-readme-stats.vercel.app/api?username=KanekiCraynet&show_icons=true&theme=vue-dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics&title_color=20C997&icon_color=20C997&text_color=ffffff&ring_color=20C997" width="500"/>
 
-### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiCraynet&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true&title_color=20C997&text_color=ffffff&langs_count=8" width="400"/>
-
 ### 🔥 Contribution Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiCraynet&theme=vue-dark&background=0d1117&hide_border=true&stroke=20C997&ring=20C997&fire=20C997&currStreakNum=20C997&sideNums=20C997&currStreakLabel=20C997&sideLabels=20C997&dates=ffffff" width="500"/>
 
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KanekiCraynet&theme=vue-dark&bg_color=0d1117&hide_border=true&color=20C997&line=20C997&point=20C997&area=true&hide_title=false" width="100%"/>
+### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiCraynet&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true&title_color=20C997&text_color=ffffff&langs_count=8&custom_title=Top%20Languages" width="400"/>
+
+### 📊 Weekly Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KanekiCraynet&theme=vue-dark&bg_color=0d1117&hide_border=true&color=20C997&line=20C997&point=20C997&area=true&hide_title=false" width="800"/>
 
 </div>
 
