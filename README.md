@@ -68,30 +68,99 @@ def transform_data_to_value(raw_data):
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<div align="center">
 
-### Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### 💻 Programming Languages
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<br><b>Python</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+<br><b>PHP</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<br><b>SQL</b>
+</td>
+</tr>
+</table>
 
-### Visualization & BI
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### 📊 Data Science & Analytics
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<br><b>Pandas</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<br><b>NumPy</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+<br><b>Jupyter</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+<br><b>Matplotlib</b>
+</td>
+</tr>
+</table>
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 📈 Visualization & BI
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="40" height="40"/>
+<br><b>Power BI</b>
+</td>
+<td align="center" width="50%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40"/>
+<br><b>Tableau</b>
+</td>
+</tr>
+</table>
 
-### Automation & DevOps
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🗄️ Databases
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<br><b>PostgreSQL</b>
+</td>
+<td align="center" width="50%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<br><b>MongoDB</b>
+</td>
+</tr>
+</table>
+
+### ⚙️ Automation & DevOps
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
+<br><b>Selenium</b>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<br><b>Docker</b>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<br><b>Git</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -99,12 +168,19 @@ def transform_data_to_value(raw_data):
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanekiCraynet&show_icons=true&theme=vue-dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiCraynet&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" width="350"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiCraynet&theme=vue-dark&background=0d1117&hide_border=true" width="500"/>
+### 📈 Activity Overview
+<img src="https://github-readme-stats.vercel.app/api?username=KanekiCraynet&show_icons=true&theme=vue-dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics&title_color=20C997&icon_color=20C997&text_color=ffffff&ring_color=20C997" width="500"/>
+
+### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiCraynet&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true&title_color=20C997&text_color=ffffff&langs_count=8" width="400"/>
+
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiCraynet&theme=vue-dark&background=0d1117&hide_border=true&stroke=20C997&ring=20C997&fire=20C997&currStreakNum=20C997&sideNums=20C997&currStreakLabel=20C997&sideLabels=20C997&dates=ffffff" width="500"/>
+
+### 📊 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KanekiCraynet&theme=vue-dark&bg_color=0d1117&hide_border=true&color=20C997&line=20C997&point=20C997&area=true&hide_title=false" width="100%"/>
+
 </div>
 
 <!-- Gradient Divider -->
