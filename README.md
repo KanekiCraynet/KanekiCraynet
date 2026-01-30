@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dzakri+Phalosa+Nugroho;Data+Analyst+%26+Automation+Engineer;Transforming+Data+Into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dzakri+Phalosa+Nugroho;Data+Analyst+%26+Automation+Engineer;Transforming+Data+Into+Insights" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,17 +16,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Data Analyst & Automation Engineer dengan 5+ tahun pengalaman dalam mengubah data kompleks menjadi insights strategis dan membangun solusi automation yang efisien.
 
-- 🔭 Currently working on **AI-powered data analytics platforms**
-- 🌱 Learning **Machine Learning & Advanced Statistics**
-- 💼 Open for **freelance projects & collaboration**
-- 🎯 Specialized in **Python, SQL, Power BI, and Process Automation**
-- 📊 Delivered **$2M+ cost savings** through data-driven solutions
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/WorkingRepo.svg" width="16" height="16" /> Currently working on **AI-powered data analytics platforms**
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Book.svg" width="16" height="16" /> Learning **Machine Learning & Advanced Statistics**
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg" width="16" height="16" /> Open for **freelance projects & collaboration**
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/VerifiedBadge.svg" width="16" height="16" /> Specialized in **Python, SQL, Power BI, and Process Automation**
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Graph.svg" width="16" height="16" /> Delivered **$2M+ cost savings** through data-driven solutions
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Tools**
 <p>
@@ -48,18 +48,48 @@ Data Analyst & Automation Engineer dengan 5+ tahun pengalaman dalam mengubah dat
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,docker" />
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KanekiCraynet&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiCraynet&layout=compact&theme=vue-dark&hide_border=true&langs_count=6"/>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=KanekiCraynet&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=KanekiCraynet&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KanekiCraynet&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiCraynet&layout=compact&theme=vue-dark&hide_border=true&langs_count=6"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiCraynet&layout=compact&theme=vue&hide_border=true&langs_count=6"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiCraynet&layout=compact&theme=vue-dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiCraynet&theme=vue-dark&hide_border=true&stroke=20C997&ring=20C997&fire=20C997" alt="GitHub Streak"/>
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=KanekiCraynet&theme=vue-dark&hide_border=true&stroke=20C997&ring=20C997&fire=20C997"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=KanekiCraynet&theme=vue&hide_border=true&stroke=20C997&ring=20C997&fire=20C997"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiCraynet&theme=vue-dark&hide_border=true&stroke=20C997&ring=20C997&fire=20C997" alt="GitHub Streak" />
+  </picture>
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -68,7 +98,7 @@ Data Analyst & Automation Engineer dengan 5+ tahun pengalaman dalam mengubah dat
 
 </div>
 
-### 🎯 Key Projects
+### Key Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -77,17 +107,17 @@ Data Analyst & Automation Engineer dengan 5+ tahun pengalaman dalam mengubah dat
 | **Healthcare ETL Pipeline** | HIPAA-compliant system processing 1M+ records | Python, AWS, Airflow |
 | **Financial Risk Model** | ML-powered loan assessment (94% accuracy) | Python, Scikit-learn, Docker |
 
-## 🏆 Achievements
+## Achievements
 
-- 💰 Generated **$2.3M in cost savings** through automation
-- 🤖 Automated **50+ manual processes**, saving 2000+ hours annually
-- 📊 Built **30+ executive dashboards** for data-driven decisions
-- ⭐ **98% client satisfaction** rate across 15+ projects
-- 🎓 Google Data Analytics & AWS Data Analytics certified
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg" width="16" height="16" /> Generated **$2.3M in cost savings** through automation
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Robot.svg" width="16" height="16" /> Automated **50+ manual processes**, saving 2000+ hours annually
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Graph.svg" width="16" height="16" /> Built **30+ executive dashboards** for data-driven decisions
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Heart.svg" width="16" height="16" /> **98% client satisfaction** rate across 15+ projects
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/VerifiedBadge.svg" width="16" height="16" /> Google Data Analytics & AWS Data Analytics certified
 
-## 📫 Let's Connect
+## Let's Connect
 
-I'm always interested in collaborating on data analytics, automation, and machine learning projects [web:7][web:8]. Feel free to reach out!
+Saya selalu tertarik untuk berkolaborasi dalam proyek data analytics, automation, dan machine learning. Jangan ragu untuk menghubungi saya!
 
 <p align="center">
   <a href="mailto:osanugroho03@gmail.com">
@@ -104,5 +134,5 @@ I'm always interested in collaborating on data analytics, automation, and machin
 ---
 
 <p align="center">
-  <i>💡 "Data is the new oil, but insights are the fuel that drives transformation."</i>
+  <i>"Data is the new oil, but insights are the fuel that drives transformation."</i>
 </p>
