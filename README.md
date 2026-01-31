@@ -29,11 +29,13 @@ Data Analyst & Automation Engineer dengan 5+ tahun pengalaman dalam mengubah dat
 ## Tech Stack
 
 **Languages & Tools**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,java,javascript,php,sql" />
+  <img src="https://skillicons.dev/icons?i=python,ruby,java,javascript,php,go,cs" />
 </p>
 
 **Data & Analytics**
+
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
@@ -44,6 +46,7 @@ Data Analyst & Automation Engineer dengan 5+ tahun pengalaman dalam mengubah dat
 </p>
 
 **Databases & Cloud**
+
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,docker" />
 </p>
@@ -72,20 +75,6 @@ Data Analyst & Automation Engineer dengan 5+ tahun pengalaman dalam mengubah dat
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiCraynet&layout=compact&theme=vue-dark&hide_border=true&langs_count=6" alt="Top Languages" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=KanekiCraynet&theme=vue-dark&hide_border=true&stroke=20C997&ring=20C997&fire=20C997"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=KanekiCraynet&theme=vue&hide_border=true&stroke=20C997&ring=20C997&fire=20C997"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiCraynet&theme=vue-dark&hide_border=true&stroke=20C997&ring=20C997&fire=20C997" alt="GitHub Streak" />
   </picture>
 </div>
 
