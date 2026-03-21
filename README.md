@@ -83,7 +83,7 @@ Data Analyst & Automation Engineer dengan 5+ tahun pengalaman dalam mengubah dat
 <div align="center">
 
 [![AI-Gen-Xll](https://github-readme-stats.vercel.app/api/pin/?username=KanekiCraynet&repo=AI-Gen-Xll-1.6&theme=vue-dark&hide_border=true)](https://github.com/KanekiCraynet/AI-Gen-Xll-1.6)
-[![Komik Stream](https://github-readme-stats.vercel.app/api/pin/?username=KanekiCraynet&repo=manga-website&theme=vue-dark&hide_border=true)](https://github.com/KanekiCraynet/komikstream)
+[![Komik Stream](https://github-readme-stats.vercel.app/api/pin/?username=KanekiCraynet&repo=komikstream&theme=vue-dark&hide_border=true)](https://github.com/KanekiCraynet/komikstream)
 
 </div>
 
