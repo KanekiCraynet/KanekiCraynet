@@ -20,12 +20,6 @@
 
 Data Analyst & Automation Engineer dengan 5+ tahun pengalaman dalam mengubah data kompleks menjadi insights strategis dan membangun solusi automation yang efisien.
 
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/WorkingRepo.svg" width="16" height="16" /> Currently working on **AI-powered data analytics platforms**
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Book.svg" width="16" height="16" /> Learning **Machine Learning & Advanced Statistics**
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg" width="16" height="16" /> Open for **freelance projects & collaboration**
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/VerifiedBadge.svg" width="16" height="16" /> Specialized in **Python, SQL, Power BI, and Process Automation**
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Graph.svg" width="16" height="16" /> Delivered **$2M+ cost savings** through data-driven solutions
-
 ## Tech Stack
 
 **Languages & Tools**
@@ -51,41 +45,6 @@ Data Analyst & Automation Engineer dengan 5+ tahun pengalaman dalam mengubah dat
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,docker" />
 </p>
 
-## GitHub Stats
-
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=KanekiCraynet&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=KanekiCraynet&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KanekiCraynet&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiCraynet&layout=compact&theme=vue-dark&hide_border=true&langs_count=6"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiCraynet&layout=compact&theme=vue&hide_border=true&langs_count=6"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiCraynet&layout=compact&theme=vue-dark&hide_border=true&langs_count=6" alt="Top Languages" />
-  </picture>
-</div>
-
-## Featured Projects
-
-<div align="center">
-
-[![AI-Gen-Xll](https://github-readme-stats.vercel.app/api/pin/?username=KanekiCraynet&repo=AI-Gen-Xll-1.6&theme=vue-dark&hide_border=true)](https://github.com/KanekiCraynet/AI-Gen-Xll-1.6)
-[![Komik Stream](https://github-readme-stats.vercel.app/api/pin/?username=KanekiCraynet&repo=komikstream&theme=vue-dark&hide_border=true)](https://github.com/KanekiCraynet/komikstream)
-
-</div>
 
 ### Key Projects
 
@@ -95,14 +54,6 @@ Data Analyst & Automation Engineer dengan 5+ tahun pengalaman dalam mengubah dat
 | **E-commerce Analytics** | Real-time dashboard tracking 500K+ transactions | Python, Power BI, PostgreSQL |
 | **Healthcare ETL Pipeline** | HIPAA-compliant system processing 1M+ records | Python, AWS, Airflow |
 | **Financial Risk Model** | ML-powered loan assessment (94% accuracy) | Python, Scikit-learn, Docker |
-
-## Achievements
-
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg" width="16" height="16" /> Generated **$2.3M in cost savings** through automation
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Robot.svg" width="16" height="16" /> Automated **50+ manual processes**, saving 2000+ hours annually
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Graph.svg" width="16" height="16" /> Built **30+ executive dashboards** for data-driven decisions
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Heart.svg" width="16" height="16" /> **98% client satisfaction** rate across 15+ projects
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/VerifiedBadge.svg" width="16" height="16" /> Google Data Analytics & AWS Data Analytics certified
 
 ## Let's Connect
 
